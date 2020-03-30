@@ -1,0 +1,21 @@
+.cards {
+  min-height: 150px;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+.formControl {
+  margin: 15px;
+  width: 250px;
+}
+.textField {
+  margin-bottom: 20px;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
